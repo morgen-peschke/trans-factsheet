@@ -105,12 +105,12 @@ _See [this section](#addressing-reactionary-claims) for debunks of certain anti-
 
 ## Medical Consensus
 
-<strong>
-A*n incomplete list of the reputable scientific & social organizations which affirm the validity of transgender people 
+<strong><i>
+An incomplete list of the reputable scientific & social organizations which affirm the validity of transgender people 
 (that transness is not an illness, that trans people are deserving of respect and equal rights, etc.). 
 This also serves as a list of the institutions which recognize the 
-[difference between sex and gender](#gender-and-sex-are-different).*
-</strong>
+[difference between sex and gender](#gender-and-sex-are-different).
+</i></strong>
 
 * American Psychological Association
 * American Medical Association
@@ -1204,9 +1204,9 @@ trans kids. Credit for most of this stuff goes to
   [older generations are much less likely to support trans rights than younger people](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf). 
 
 Also, trans kids are not 'going through a phase.' First of all, 
-[an article from a magazine from the American Academy of Pediatrics](https://www.healthychildren.org/English/ages-stages/gradeschool/Pages/Gender-Identity-and-Gender-Confusion-In-Children.aspx) 
-mentions how by age 4, children have a 'stable sense of their gender identity.' And 
-a[ study on trans and cis kids](https://www.pnas.org/content/116/49/24480) ([cited in this Forbes article](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#1f9d83da526b)) 
+[an article from a magazine from the American Academy of Pediatrics](https://www.healthychildren.org/English/ages-stages/gradeschool/Pages/Gender-Identity-and-Gender-Confusion-In-Children.aspx)
+mentions how by age 4, children have a 'stable sense of their gender identity.' And
+a [study on trans and cis kids](https://www.pnas.org/content/116/49/24480) ([cited in this Forbes article](https://www.forbes.com/sites/dawnstaceyennis/2020/12/29/study-transgender-children-recognize-their-authentic-gender-at-early-age-just-like-other-kids/#1f9d83da526b)) 
 found gender identity — the concept of knowing whether one's self is male, female or non-binary — is as strong in trans 
 kids as it is among those identifying as cis. Similar results are found 
 [in this study](http://pdfs.semanticscholar.org/d642/d3853a04e464d85b629115d7ff513b9da20a.pdf). There's also a number 
@@ -1329,8 +1329,8 @@ methodological, theoretical, ethical, and interpretive concerns**. Here is their
 
 #### Theoretical Concerns
 
-1. assumptions inherent in"desistance" terminology
-2. binary gender framework 
+1. assumptions inherent in "desistance" terminology
+2. binary gender framework
 3. presumption of gender stability as a positive outcome
 
 #### Ethical Concerns
@@ -1980,7 +1980,7 @@ necessarily having dysphoria.
     * [https://gidreform.wordpress.com/2014/02/25/methodological-questions-in-childhood-gender-identity-desistence-research/](https://gidreform.wordpress.com/2014/02/25/methodological-questions-in-childhood-gender-identity-desistence-research/)
     * See [this section](#what-about-older-studies) too
 * [http://www.thenewatlantis.com/docLib/20160819_TNA50SexualityandGender.pdf](http://www.thenewatlantis.com/docLib/20160819_TNA50SexualityandGender.pdf) 
-  (and paul mchugh more broadly)
+  (and Paul McHugh more broadly)
 * [Do trans- kids stay trans- when they grow up?](http://www.sexologytoday.org/2016/01/do-trans-kids-stay-trans-when-they-grow_99.html) 
   from sexologytoday.org by James Cantor
     * Most of these studies are grossly out of date, with only 4/11 of them being from after 1990. That means that most 
@@ -2140,7 +2140,7 @@ and it's also vague on how much of gendered norms are nurtured as opposed to nat
 * [Scientific American: Montañez 17](https://www.scientificamerican.com/article/beyond-xx-and-xy-the-extraordinary-complexity-of-sex-determination/) 
   ([IMAGE](https://static.scientificamerican.com/sciam/cache/file/164FE5CE-FBA6-493F-B9EA84B04830354E_source.jpg)) 
   ([png of that image](https://web.archive.org/web/20201111204557/https://cdn.discordapp.com/attachments/543333556856815617/589195017952690177/Beyond_XX_and_XY_scientific_american.png))
-    * _G_raphic describing the many characteristics which factor into one's **sexual identity**.
+    * Graphic describing the many characteristics which factor into one's **sexual identity**.
     * Helpful in indicating the **ambiguous and bimodal** nature of sex/responding to people who believes it's as simple 
       as **XX/XY**.
     * ![Beyond XX and XY](images/beyond-xx-and-xy.png "Beyond XX and XY")
