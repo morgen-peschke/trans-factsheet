@@ -178,10 +178,10 @@ of medical organizations which affirm transgender healthcare practices, etc.**
 
 **Medical transition decreases dysphoria, suicide attempts, and improves depression and anxiety. However, most research 
 on this subject is very low quality, so we should be open to conducting better future research. 
-Check out [this section](#srs-detransition) too**
+Check out [this section](#srs-detransition) too.**
 
 * [Murad et al. 10](https://www.ncbi.nlm.nih.gov/pubmed/19473181)
-    * Meta-analysis of **28 **studies on transition and hormones
+    * Meta-analysis of **28 **studies on transition and hormones.
     * Sex reassignment/hormonal improvements:
         * **80%** of individuals reported significant improvement in **dysphoria**
         * **78%** of individuals reported significant improvement in **psychological symptoms**
@@ -192,32 +192,32 @@ Check out [this section](#srs-detransition) too**
       Still significant and helpful findings regardless.
 * [De Vries et al. 14](https://pubmed.ncbi.nlm.nih.gov/25201798/)
     * Longitudinal study on the **effectiveness of puberty suppression, hormones, and later sex reassignment surgery** 
-      on trans individuals in improving mental outcomes
+      on trans individuals in improving mental outcomes.
     * 55 trans youth (22 transfem and 33 transmasc) were followed over an 8-year period from before starting blockers 
-      (mean aged 13.6 years)
+      (mean aged 13.6 years).
     * While many studies like this compare those after treatment to those before treatment, this study also made 
       **comparisons to the general population **and still found that psychological function was on par or better.
     * _"After gender reassignment, in young adulthood, the GD was alleviated and psychological functioning had steadily 
       improved. Wellbeing **was similar to or better than same-age young adults from the general population**."_
 * [Turban et al 22](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261039)
-    * transgender people who accessed GAH during early or late adolescence had a lower odds of past-month suicidal 
+    * Transgender people who accessed GAH during early or late adolescence had a lower odds of past-month suicidal 
       ideation and past-month severe psychological distress in adulthood, when compared to those who desired but did 
-      not access GAH
+      not access GAH.
     * The results also provide additional evidence to suggest that legislation restricting transgender adolescents' 
-      access to gender-affirming medical care would result in adverse mental health outcomes
+      access to gender-affirming medical care would result in adverse mental health outcomes.
 * [The Endocrine Society 15](https://www.eurekalert.org/pub_releases/2015-03/tes-sdc030615.php)
     * "_A new study has confirmed that** transgender youth often have mental health problems** and that their 
-      depression and anxiety **improve greatly with recognition** **and treatment of gender dysphoria**_"
+      depression and anxiety **improve greatly with recognition** **and treatment of gender dysphoria**_."
 * [Nobili 18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6223813/)
     * Longitudinal meta-analysis which indicates **transgender people** have a** lower quality of life** than the 
       general population.
     * However, that quality of life **rises dramatically** with '**Gender Affirming Treatment**', the nature of which 
       is detailed extensively in-text.
 * [Cornell University](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-well-being-of-transgender-people/)
-    * Large literature compilation on transgender people and the effect gender transition has on their mental health
+    * Large literature compilation on transgender people and the effect gender transition has on their mental health.
     * **Of 55 studies, Cornell said that 51 **indicated transitioning has a** positive effect** on the mental health of
       transgender people and **4** indicated it had** mixed or no results**. **ZERO** studies indicated gender 
-      transitioning has **negative results**
+      transitioning has **negative results**.
     * **USE THIS SOURCE SPARINGLY:** [parts of the study categorization and compilation methodology are very sus](https://medium.com/@JLCederblom/what-we-know-about-what-we-know-de5bdf2955dd). 
       For example, a study with some positive and some negative results could be judged by Cornell as having positive 
       results, misrepresenting the overall pool of evidence. Issues like these make Cornell's analysis much less 
@@ -230,13 +230,13 @@ Check out [this section](#srs-detransition) too**
 * [https://hqlo.biomedcentral.com/articles/10.1186/s12955-020-01510-0](https://hqlo.biomedcentral.com/articles/10.1186/s12955-020-01510-0)
 * [Almazan & Keuroghlian 2021](https://jamanetwork.com/journals/jamasurgery/article-abstract/2779429)
     * Study that **uses data from the US Transgender Survey (massive survey of 27,000+ people)** and does a covariate 
-      analysis to learn about the **association between medical transition and several mental health indicators**
+      analysis to learn about the **association between medical transition and several mental health indicators**.
     * Accounted for various demographic indicators including wealth (a neat finding about wealth was that those with 
       wealth also tend to have better access to gender-affirming care, and thus were more able to benefit from that 
-      care)
+      care).
     * Finds that "**_TGD people with a history of gender-affirming surgery had significantly lower odds of past-month
       psychological distress, past-year tobacco smoking, and past-year suicidal ideation compared with TGD people with no
-      history of gender-affirming surgery_**"
+      history of gender-affirming surgery_**".
           * Deeper in the study they reaffirm that **its conclusions support gender-affirmative care**, in line with 
             past smaller-scale studies. "_The association observed between gender-affirming surgeries and reduction in 
             substance use behaviors is consistent with previous studies involving small community samples that 
@@ -320,7 +320,7 @@ work with the existing research and acknowledge the limitations that come with i
 **Social transition improves depression, anxiety, and psychological function**
 
 * [Journal of Adolescent Health: Connolly et al. 16](https://www.sciencedirect.com/science/article/abs/pii/S1054139X1630146X)
-    * Analyzes consensus on the effectiveness of **social transition**
+    * Analyzes consensus on the effectiveness of **social transition**.
     * _"Gender-affirming medical therapy and supported social transition in childhood have been shown to correlate with 
       **improved psychological functioning** for gender-variant children and adolescents."_
 * [Journal of the American Academy of Child and Adolescent Psychiatry: Durwood et al. 17](https://www.jaacap.org/article/S0890-8567%2816%2931941-4/fulltext)
@@ -335,10 +335,10 @@ work with the existing research and acknowledge the limitations that come with i
 associations, and effective at reducing dysphoria, anxiety, and depression.**
 
 * [Public Broadcasting Service News: Korry 16](https://www.pbs.org/newshour/nation/puberty-blockers-may-improve-mental-health-transgender-adolescents)
-    * **Everything you need to know about puberty blockers** 
-    * Full-blown puberty is irreversible
+    * **Everything you need to know about puberty blockers.**
+    * Full-blown puberty is irreversible.
     * Taking a gonadotropin-releasing hormone (GnRH) agonist, secretion of the sex hormones can be stopped and the 
-      onset of puberty suppressed, so that the body does not develop secondary sex characteristics
+      onset of puberty suppressed, so that the body does not develop secondary sex characteristics.
     * This has been **done safely for decades** to suppress sex hormones in children who develop too early, a condition 
       known as precocious puberty.** Suppressors have also been used to treat endometriosis, uterine fibroids and 
       prostate cancer.**
@@ -348,7 +348,7 @@ associations, and effective at reducing dysphoria, anxiety, and depression.**
       Transgender Health (WPATH), also issued Standards of Care for the treatment of patients with gender dysphoria, 
       **which include puberty suppression.**
 * [Human Rights Campaign et al. 16](https://assets2.hrc.org/files/documents/SupportingCaringforTransChildren.pdf)
-    * **BIG** report on trans youth and transition
+    * **BIG** report on trans youth and transition.
     * Endorsed by the **American Academy of Pediatrics** & the **American College of Osteopathic Pediatricians** which 
       affirms the validity of **transgender youth**, encourages **appropriate care and respect** for their transness and 
       provides resources on how to do so.
@@ -389,8 +389,8 @@ associations, and effective at reducing dysphoria, anxiety, and depression.**
       drugs** or are provided experimentally. Whether or not these (or even approved drugs) are ethically prescribed 
       depends on **whether they are likely to serve the patient's health interests** based on the **evidence available 
       at the time of prescription**."_
-    * **Hormone blockers are not new**
-        * _"Since the mid 1990s, puberty delaying medications have been prescribed to some adolescents (not prepubertal
+    * **Hormone blockers are not new:**
+        * _"Since the mid 1990s, puberty delaying medications have been prescribed to some adolescents (not prepubertal 
           children) with severe and persistent gender dysphoria, in cases in which such distress was aggravated by 
           pubertal development."_
         * _"The Royal College of Psychiatrists, in 1998, **recommended delaying puberty** in young adolescents who 
@@ -401,17 +401,17 @@ associations, and effective at reducing dysphoria, anxiety, and depression.**
           many years."_
         * _"GnRHa has been used in the treatment of gender dysphoria** since the mid 1990s**, and their efficacy in 
           delaying puberty in adolescents is documented by **numerous studies and scientific publications**" (21 
-          scientific studies are then listed)_
+          scientific studies are then listed)._
 * [Costa et al. 15](https://onlinelibrary.wiley.com/doi/abs/10.1111/jsm.13034)
-    * Study of **201 kids** between the ages of 12-17 with gender dysphoria
+    * Study of **201 kids** between the ages of 12-17 with gender dysphoria.
     * Subjects were assessed for psychosocial functioning utilizing the Children's Global Assessment Scale (CGAS), 
-      which indicated positive mental health outcomes after puberty suppression
+      which indicated positive mental health outcomes after puberty suppression.
         * _"The CGAS is one of the most widely used rating scales designed to measure how children and adolescents 
-          function psychosocially in daily life"_
+          function psychosocially in daily life."_
     * _"Results from this study indicate that **psychological support is associated with a better psychosocial 
       functioning** in GD adolescents, especially if presenting psychological/psychiatric problems. Moreover, **puberty 
       suppression** was associated with a **further improvement in global functioning**. Finally, global functioning 
-      improved steadily over time in GD adolescents receiving both psychological support and GnRHa [blockers]"_
+      improved steadily over time in GD adolescents receiving both psychological support and GnRHa [blockers]."_
     * Results also showed slightly higher CGAS scores for the sample group that was "immediately eligible" for puberty 
       blockers compared to the "delayed eligible" group that only received psychological support, although with such a 
       small sample size the researchers ultimately consider this difference negligible. 
@@ -426,7 +426,7 @@ associations, and effective at reducing dysphoria, anxiety, and depression.**
     * _"Suffering from gender dysphoria without being able to present socially in the desired social role, and/or to 
       stop the development of secondary sex characteristics **usually leads to problems in these areas**"_
 * [Giordano 08](https://jme.bmj.com/content/34/8/580)
-    * Paper focused strictly on the ethicality of puberty blockers
+    * Paper focused strictly on the ethicality of puberty blockers.
     * Argues that the general improved quality of life, including substantially reduced risk of suicide, justifies the 
       often challenged ethics of pubertal suppression.
 * [Endocrine Society 13](https://www.eurekalert.org/pub_releases/2013-06/tes-mii061513.php)
@@ -447,7 +447,7 @@ associations, and effective at reducing dysphoria, anxiety, and depression.**
     * _"At callback of adult subjects we did **not find impairment in reproductive function**, **consistent with 
       previous studies**"_
 * [Heger et al. 06](https://www.sciencedirect.com/science/article/abs/pii/S0303720706001766)
-    * Study of reproductive function in AFAB subjects after GnRH puberty blocker treatment,
+    * Study of reproductive function in AFAB subjects after GnRH puberty blocker treatment
     * _"Long-term GnRH agonist treatment for female central precocious puberty does not impair reproductive function"_
     * _"None of the women who wanted to become pregnant, had to utilize assisted methods for inducing pregnancies"_
 * [Magiakou et al. 09](https://academic.oup.com/jcem/article/95/1/109/2835177)
@@ -467,11 +467,11 @@ associations, and effective at reducing dysphoria, anxiety, and depression.**
     * Mean vBMD increased not significantly different from controls
 * [N Jay et al. 92](https://pubmed.ncbi.nlm.nih.gov/1517382/)
     * Study evaluated the menstrual function of 46 girls with CPP who had been treated for at least 2 years with GnRHa 
-      and were up to 7 years post-treatment
+      and were up to 7 years post-treatment.
     * _"Ovulation was demonstrated in 50% of the girls studied within 1 yr of menarche and in 90% of the girls studied 
       2 yr or more post-menarche, including 5 girls who reported pregnancies. The development of regular ovulatory 
       menstrual function in these girls with CPP is in accord with previously documented patterns in normal 
-      adolescents"_
+      adolescents."_
 * [https://europepmc.org/article/med/24719967](https://europepmc.org/article/med/24719967)
 * [https://www.liebertpub.com/doi/full/10.1089/trgh.2015.0008](https://www.liebertpub.com/doi/full/10.1089/trgh.2015.0008)
 
@@ -531,7 +531,7 @@ with an accurate diagnosis than without one.
   increasing chances of young people illegally accessing medications.
 * The [scottish gov](https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2020/01/foi-201900010673/documents/foi-201900010673---document-3---puberty-blockers-and-trans-yp---april-2017/foi-201900010673---document-3---puberty-blockers-and-trans-yp---april-2017/govscot%3Adocument/FOI-201900010673%2B-%2BDocument%2B3%2B-%2B%2BPuberty%2Bblockers%2Band%2BTrans%2BYP%2B-%2BApril%2B2017.pdf)
   say it's not the neutral option "Withholding puberty blockers and hormone therapy is not a neutral option and can 
-  result in an increased risk of mental health issues"
+  result in an increased risk of mental health issues."
 
 ## Case Studies:
 
@@ -541,15 +541,15 @@ through.
 
 * [Kettenis et al. 11](https://link.springer.com/content/pdf/10.1007%2Fs10508-011-9758-9.pdf)
     * Dutch trans man who started on puberty blockers at age 13 in 1988. His health and well-being was monitored 
-      regularly for over 22 years
-    * he was well-functioning with no clinical signs of a negative impact of earlier puberty suppression on brain 
-      development, metabolic and endocrine parameters, or bone mineral density
+      regularly for over 22 years.
+    * He was well-functioning with no clinical signs of a negative impact of earlier puberty suppression on brain 
+      development, metabolic and endocrine parameters, or bone mineral density.
 * [Cohen-Kettenis 98](https://pubmed.ncbi.nlm.nih.gov/9879847/)
     * Focuses on **one person's case** in which puberty blockers were used at a young age to relieve pressure from them, 
-      give them more time to go through proper psychotherapy, and get a more reliable diagnosis of the situation
-    * Demonstrates that **puberty blockers can be used to more to help more accurately diagnose gender dysphoria**
+      give them more time to go through proper psychotherapy, and get a more reliable diagnosis of the situation.
+    * Demonstrates that **puberty blockers can be used to more to help more accurately diagnose gender dysphoria**.
     * This should make puberty blockers an appealing option even to people who accept the science around being 
-      transgender but still believe that it's mostly a trend
+      transgender but still believe that it's mostly a trend.
 
 ---
 
@@ -567,19 +567,19 @@ that we can simply ignore when talking about trans people.**
         * **55%** had an incident of violence within the past year in part or whole because of them being trans
 * [Wittle et al. 07](http://www.pfc.org.uk/pdf/EngenderedPenalties.pdf) ([second link](https://www.ilga-europe.org/sites/default/files/trans_country_report_-_engenderedpenalties.pdf))
     * Uses data from **872 respondents** in the UK, which is a large number of respondents compared to most studies on 
-      trans people (pg 26)
+      trans people (pg 26).
         * At the time, the most **comprehensive study** on discrimination of trans people (pg 17)
     * There are a number of 'trigger points' at which trans people start being discriminated against during their
-      transition, the most common of which is once they come out at work (pg 25-6)
-    * Aside from that, there's a wide variety of ways and places in which trans people are discriminated against
+      transition, the most common of which is once they come out at work (pg 25-6).
+    * Aside from that, there's a wide variety of ways and places in which trans people are discriminated against.
 * [Trans Employee Experiences Survey by TotalJobs 2016](https://www.totaljobs.com/advice/wp-content/uploads/Transgender-employee-experiences-survey-report-2016_Totaljobs.pdf)
     * **Survey of 432 transgender people living in the UK and Ireland, focused on their experiences of discrimination 
       in the workplace**. Methodology made it so that the people who were surveyed had transitioned specifically while 
-      working/actively seeking work
+      working/actively seeking work.
     * Quantitative survey results came alongside qualitative ‘further comments' by some respondents to better explain 
-      their experiences
+      their experiences.
     * General trend in play in which **most transgender employees received some support and acceptance, though with a 
-      substantial minority experiencing discrimination**
+      substantial minority experiencing discrimination**.
     * Most discrimination tended to come from fellow employees and customers, not so much management. 
 
 ---
@@ -622,7 +622,7 @@ So how do people misuse it?
   statistic refers specifically to lifetime suicide attempts**, which means that it's possible most of those suicide 
   attempts could have happened in life **before any transition took place**. If we saw a large number of suicide 
   attempts before transition but much fewer after transition, that would directly contradict the argument being made. 
-  Of course, the argument also ignores the fact that transition isn't the only thing that impacts 
+  Of course, the argument also ignores the fact that transition isn't the only thing that impacts.
 * Some people go an extra step and compare trans suicide attempt rates to other oppressed groups, e.g. black people 
   under slavery and jews during the Holocaust. That's addressed 
   [in this video](https://www.youtube.com/watch?v=4Ioc8pLo2uQ).
@@ -662,24 +662,24 @@ An extra bit on calculating _successful_ suicide rates:
         * were the victim or **sexual assault** (64%)
 * [Virupaksha et al. 16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178031/)
     * Broad meta-analysis of **21 studies **on the trans suicide attempt rate (it's quite high).
-    * The suicide attempt rate ranges from **32% to 50%** across countries
-    * The following were found to have an impact on the suicide attempt rate
+    * The suicide attempt rate ranges from **32% to 50%** across countries.
+    * The following were found to have an impact on the suicide attempt rate:
         * Gender-based victimization
         * Discrimination
         * Bullying
         * Violence
-        * being rejected by the family, friends, and community
-        * harassment by intimate partner, family members, police and public
-        * discrimination and ill-treatment at health-care system
+        * Being rejected by the family, friends, and community
+        * Harassment by intimate partner, family members, police and public
+        * Discrimination and ill-treatment at health-care system
 * [Zeluf 18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5905855/)
     * Swedish study on trans suicide prevention
     * **37%** of respondents reported that they have seriously considered suicide during the past 12 months and **32%** 
       had ever attempted a suicide
     * Suicide ideation is associated with:
         * Offensive treatment
-        * lifetime exposure to trans-related violence
-        * less satisfaction with contacts with friends and acquaintances and with one's own psychological wellbeing
-        * lack of practical support 
+        * Lifetime exposure to trans-related violence
+        * Less satisfaction with contacts with friends and acquaintances and with one's own psychological wellbeing
+        * Lack of practical support 
 * [Williams Institute: Haas et al. 14](https://williamsinstitute.law.ucla.edu/wp-content/uploads/AFSP-Williams-Suicide-Report-Final.pdf)
     * **Massive demographic analysis** which codifies the many **social & institutional factors** which contribute to 
       trans suicide rates
@@ -695,13 +695,13 @@ An extra bit on calculating _successful_ suicide rates:
 * [Williams Institute: Herman et al. 19](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Suicidality-Transgender-Sep-2019.pdf)
     * **Discrimination or mistreatment** in education, employment, housing, health care, in places of public 
       accommodations, or from law enforcement is associated with higher prevalence of suicide thoughts and attempts 
-      (**13.4% compared to 6.3%**)
+      (**13.4% compared to 6.3%**).
     * Those who reported that their spouses, partners, or children **rejected them** because they are transgender 
-      reported **higher prevalence** of **lifetime and past-year suicide attempts** (10.5% compared to 5.1%)
+      reported **higher prevalence** of **lifetime and past-year suicide attempts** (10.5% compared to 5.1%).
     * Respondents who had been **rejected by their religious communities** or had **undergone conversion therapy** were 
-      more likely to report suicide thoughts and attempts (13.1% compared to 6.3%)
+      more likely to report suicide thoughts and attempts (13.1% compared to 6.3%).
     * People who are **not viewed by others as transgender** and those who **do not disclose to others** that they are 
-      transgender reported lower prevalence of suicide thoughts and attempts (6.3% compared to 12.2%)
+      transgender reported lower prevalence of suicide thoughts and attempts (6.3% compared to 12.2%).
     * The cumulative effect of minority stress is associated with **higher prevalence of suicidality**. For instance, 
       **97.7 percent** of those who had experienced four discriminatory or violence experiences in the past year (being 
       fired or forced to resign from a job, eviction, experiencing homelessness, and physical attack) reported seriously 
@@ -716,10 +716,10 @@ An extra bit on calculating _successful_ suicide rates:
       significantly with increasing levels of family rejection."_
 * [Adams et al. 19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6798808/)
     * SITBs (suicidal thoughts and behaviors), among the transgender population, are both universally high and impacted 
-      by race/ethnicity, educational attainment, and income
-    * Lifetime suicidal ideation was reported in 34 studies and attempts in 46 studies
+      by race/ethnicity, educational attainment, and income.
+    * Lifetime suicidal ideation was reported in 34 studies and attempts in 46 studies.
     * "_The myth that transition leads to SITBs continues to be used to deny transgender health care access and 
-      legislative rights, despite a lack of empirical support for this position and repeated research debunking it_"
+      legislative rights, despite a lack of empirical support for this position and repeated research debunking it._"
 * [williams institute: Herman et al. 19](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Suicidality-Transgender-Sep-2019.pdf)
     * "A lower proportion of respondents who lived in a state with a gender identity nondiscrimination statute reported 
       past-year suicide thoughts and attempts than those who lived in states without such a statute"
@@ -762,7 +762,7 @@ An extra bit on calculating _successful_ suicide rates:
         * The other **17 studies** found that family support in general (i.e. not necessarily in response to children's 
           sexual orientation or gender identity) is linked to the health and well-being of LGBT youth.
     * This compilation might suffer from similar problems as the Cornell link in the 
-      [Medical Transition](#medical-transition) section. Things to consider
+      [Medical Transition](#medical-transition) section. Things to consider.
 * [Trans PULSE (subsidiary of the Canadian Institutes of Health Research)](http://transpulseproject.ca/wp-content/uploads/2012/10/Impacts-of-Strong-Parental-Support-for-Trans-Youth-vFINAL.pdf)
     * From Ontario (not international scope) but academically credible and **VERY** widely cited
     * Analysis of the ways in which **parental support** affect elements of disadvantage experienced by **transgender 
@@ -770,11 +770,11 @@ An extra bit on calculating _successful_ suicide rates:
     * **Strong parental support** **decreases the likelihood** of a **suicide attempt** within the past year from 57% 
       to **just 4%**.
 * [Bauer et al. 15](https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-015-1867-2)
-    * Data from trans people age 16+ in Ontario, Canada, including 380 who reported on suicide outcomes
+    * Data from trans people age 16+ in Ontario, Canada, including 380 who reported on suicide outcomes.
     * _"Interventions to increase **social inclusion** and **access to medical transition**, and to **reduce 
       transphobia**, have the potential to contribute to** substantial reductions** in the extremely high prevalences of 
       **suicide ideation** and attempts within trans populations"_
-    * Shows every step of transitioning from changing legal documents to surgeries lowers suicide risk more
+    * Shows every step of transitioning from changing legal documents to surgeries lowers suicide risk more.
 * [Başar et al. 16](https://www.sciencedirect.com/science/article/abs/pii/S1743609516301734)
     * "Social support from family was associated with better QoL in psychological QoL, whereas perceived support from 
       friends significantly predicted all other domains of QoL"
@@ -794,7 +794,7 @@ An extra bit on calculating _successful_ suicide rates:
         * **71% drop in severe depression**
         * **34% drop suicidal ideation**
         * **65% drop in suicide attempts**
-    * Keep in mind that as of 2020, this is the only study available on chosen name usage specifically
+    * Keep in mind that as of 2020, this is the only study available on chosen name usage specifically.
 
 ### Some additional notes:
 
@@ -818,7 +818,7 @@ give rise to other problems which proponents leave unaddressed as well. Also, ch
 
 * [Hasenbush et al. 19](https://link.springer.com/article/10.1007%2Fs13178-018-0335-z)
     * **Analysis of crime & privacy violations** in Massachusetts as they relate to concerns raised by those who
-      advocate for '**trans bathroom bills**'
+      advocate for '**trans bathroom bills**'.
     * Analysis indicates there is **no empirical evidence to support these concerns**; such crimes & privacy violations 
       are **exceedingly rare**.
     * Calls for trans bathroom bills are **fearmongering**, plain and simple.
@@ -840,11 +840,11 @@ give rise to other problems which proponents leave unaddressed as well. Also, ch
       restroom of their gender** -_ _"_Women tend to be more comfortable with this than men, with 72% of women saying 
       they are "very" or "quite comfortable" with a transgender woman using a female toilet, compared with 64% of men 
       saying they are comfortable with a transgender man using male toilets. Around 1 in 6 (14% of women, and 15% of 
-      men) say they are not comfortable with this._" (pg 14)
-    * This one excludes the "Neither comfortable nor uncomfortable" answer which was another 14% from the 2017 survey
+      men) say they are not comfortable with this._" (pg 14).
+    * This one excludes the "Neither comfortable nor uncomfortable" answer which was another 14% from the 2017 survey.
 * [Charlotte Observer 16](https://www.charlotteobserver.com/news/politics-government/article70255967.html)
     * Even after **searching for hours through dozens of alleged instances** of transgender bathroom incidents, **only 
-      3 were able to be verified** that had occurred since 1999
+      3 were able to be verified** that had occurred since 1999.
 * [Seelman 16](https://www.tandfonline.com/doi/abs/10.1080/00918369.2016.1157998)
     * Uses data from the National Transgender Discrimination Survey, looking specifically at trans people in college
     * After controlling for interpersonal victimization, found that **denying access to desired bathroom increases 
@@ -893,13 +893,13 @@ incidents.
 * **[Casper, Wyoming incident](https://billingsgazette.com/news/state-and-regional/crime-and-courts/trial-begins-for-casper-resident-charged-with-sexually-assaulting-/article_24fd9634-02a9-5ffa-99b0-a06b4aaff15a.html)** - Trans woman, Michelle Martinez, sexually molested 10 yr-old
     * [This actually did happen](https://www.snopes.com/fact-check/miguel-martinez-transgender-bathroom-controversy/), 
       but this one incident can't be extrapolated onto the greater trans population, especially not with the existing 
-      empirical evidence regarding bathroom bills
+      empirical evidence regarding bathroom bills.
     * This one also happened in a private restroom in someone's home, so that wouldn't have been covered by a 
       restrictive bathroom bill anyway.
 * **[Family Research Council compilation](https://downloads.frc.org/EF/EF16F27.pdf)** - cites 25 instances of men going 
   into female bathrooms
     * Most, if not all, of the stories they cite do NOT involve or even MENTION trans people; this is by-and-large a 
-      compilation of CIS men harassing women
+      compilation of CIS men harassing women.
         * While the FRC argues that the problem itself is in fact cis men exploiting a perceived loophole, most of their 
           "examples" lack any connection to bathroom bills regardless. 
     * Even if every single incident involved a trans person, this does barely anything to justify bathroom bills. 25 
@@ -944,7 +944,7 @@ incidents.
   ([which is far more common anyway](https://www.reuters.com/article/us-usa-lgbt-survey-idUSKBN13X0BK)) but that doesn't 
   justify banning cis people from their respective bathrooms.
 * You don't want to ask "find me one instance of a bathroom assault", as you can find one instance of all sorts of 
-  unusual things. It's instead better to ask "show me
+  unusual things. It's instead better to ask "show me (MISSING TEXT?)
 
 ---
 
@@ -952,7 +952,7 @@ incidents.
 
 * [Just Detention International Organization 13](https://justdetention.org/wp-content/uploads/2015/10/FS-Targets-For-Abuse-Transgender-Inmates-And-Prisoner-Rape.pdf)
     * **59 percent** of transgender women housed in men's prisons had been **sexually abused** while incarcerated, as 
-      compared to 4 percent of non-transgender inmates in men's prisons
+      compared to 4 percent of non-transgender inmates in men's prisons.
 * [https://www.aclu.org/blog/lgbt-rights/criminal-justice-reform-lgbt-people/transgender-prisoners-face-sexual-assault-and](https://www.aclu.org/blog/lgbt-rights/criminal-justice-reform-lgbt-people/transgender-prisoners-face-sexual-assault-and)
 * [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567053/prisoner-transgender-statistics-march-april-2016.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567053/prisoner-transgender-statistics-march-april-2016.pdf) 
     * ""Based on this exercise, there were 0.8 transgender prisoners reported per 1,000 prisoners in custody.
@@ -976,21 +976,21 @@ with trans people.**
     * Finds that LGBT folk are usually depicted in media in stereotypical ways, which could limit their perception of 
       their possible future
 * [Hughto et al. 20](https://www.liebertpub.com/doi/10.1089/lgbt.2020.0279)
-    * frequent exposure to negative depictions of transgender people in the media was significantly associated with 
+    * Frequent exposure to negative depictions of transgender people in the media was significantly associated with 
       clinical symptoms of depression, anxiety, global psychological distress, and post-traumatic stress disorder (PTSD)
       in this population
-    * those who reported greater frequency of exposure to these messages were significantly more likely to exhibit 
+    * Those who reported greater frequency of exposure to these messages were significantly more likely to exhibit 
       clinical symptoms of depression, anxiety, global psychological distress, and PTSD. The association held even after 
       adjustments were made for variables such as age, race, income, and reported experiences of childhood and/or adult 
       sexual or physical abuse, which suggests that negative media messages may have an independent impact on the mental 
       health of transgender populations exposed to such messages.
 * [UCLA Williams Institute: Luhur, Brown, & Flores 17](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf)
     * While a majority of Americans agree on giving a number of rights to trans people, there is still a substantial 
-      minority who oppose such
+      minority who oppose such.
     * ![Trans Rights Survey Results](images/trans-rights-survey-results.png "Trans Rights Survey Results")
 * [YouGov 19](https://today.yougov.com/topics/politics/articles-reports/2019/10/11/american-views-transgender-people-poll)
     * A majority of Americans support a number of trans-affirming rights and policies, but there's still some divide in 
-      places and a substantial opposing minority for nearly every related issue
+      places and a substantial opposing minority for nearly every related issue.
 * [https://www.tandfonline.com/doi/full/10.1080/19359705.2013.777007](https://www.tandfonline.com/doi/full/10.1080/19359705.2013.777007)
 
 ---
@@ -1001,13 +1001,13 @@ with trans people.**
 discrepancies, yet face substantial discrimination in athletics. Keep in mind that specific instances of trans people 
 winning sports competitions doesn't actually prove anything about broader trends. Also worth noting the low quality of
 much of this research because there's very few trans athletes and nobody cared about this until like 2015, which means 
-we should be open to new research developments for this topic and a lot isn't settled science yet**
+we should be open to new research developments for this topic and a lot isn't settled science yet.**
 
 * [Jones et al. 17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357259/)
     * Systemic review covering prior research on **trans individuals' performance in sports** and preexisting 
-      **sports policies** concerning trans people, amounting to **8 research articles and 31 sports policies**
+      **sports policies** concerning trans people, amounting to **8 research articles and 31 sports policies**.
     * Finds that "There is no direct or consistent research suggesting transgender female individuals (or male 
-      individuals) have an athletic advantage at any stage of their transition"
+      individuals) have an athletic advantage at any stage of their transition."
         * (includes cross-sex hormones, gender-confirming surgery)
     * This particular subject is in need of more and better research because **most research is really low quality**, 
       so using this systemic review as a _definitive_ statement on the topic is a dumb thing to do. The systemic review 
@@ -1023,32 +1023,32 @@ we should be open to new research developments for this topic and a lot isn't se
     * Trans individuals experience **substantial discrimination** from sports institutions due to existing anti-trans 
       policies.
     * [https://link.springer.com/article/10.1007/s40279-020-01324-6](https://link.springer.com/article/10.1007/s40279-020-01324-6) 
-      Richardson and Chen published a critique of this study, this links to a rebuttal of the critique
+      Richardson and Chen published a critique of this study, this links to a rebuttal of the critique.
 * [National Collegiate Athletic Association: Griffin et al. 10](https://web.archive.org/web/20151222002856/https://www.ncaa.org/sites/default/files/NCLR_TransStudentAthlete+(2).pdf)
     * "Any athletic advantages a transgender girl or woman arguably may have as a result of her prior testosterone 
-      levels **dissipate after about one year** of estrogen therapy"
+      levels **dissipate after about one year** of estrogen therapy."
     * "According to medical experts on this issue, the assumption that a transgender girl or woman competing on a 
       women's team would have a competitive advantage outside the range of performance and competitive advantage or 
       disadvantage that already exists among female athletes is **not supported by evidence**."
 * [National Collegiate Athletic Association: Board of Governors Statement on Transgender Participation (2021)](https://www.ncaa.org/about/resources/media-center/news/ncaa-board-of-governors-statement-on-transgender-participation) with an associated [policy pdf](https://ncaaorg.s3.amazonaws.com/inclusion/lgbtq/INC_TransgenderHandbook.pdf)
-    * Very clear **emphasis on maximizing both inclusiveness and fairness for athletes**
+    * Very clear **emphasis on maximizing both inclusiveness and fairness for athletes**.
     * Only restriction in place for trans people is testosterone suppression treatment for transgender women - this 
       policy is meant to preserve fairness in competition while letting trans women participate in their proper sports 
       teams.
     * **The policy pdf goes more in-depth about broader inclusion of trans athletes into sports teams**, suggesting
       'best practices' for athletics administrators, coaches, etc. That mostly just comes down to standardizing NCAA 
       practice at other schools, educating about non-discrimination laws that apply for sports, and being respectful 
-      and understanding towards trans athletes (sportsmanship!)
+      and understanding towards trans athletes (sportsmanship!).
 * [University of Leicester: Hargie et al. 15](https://web.archive.org/web/20180719224455/https://lra.le.ac.uk/bitstream/2381/38576/6/Transgender%20paper.pdf)
     * _"It is primarily the **lack of public understanding** regarding transgender people that remains the greatest
       cause of their exclusion"_, not some perceived advantage among athletes.
     * The study found** interconnecting themes **among all its participants to substantiate the prominence of public 
       exclusion:
-        * the impact of alienating** sports experiences** at school
-        * the intimidating nature of the **changing room **environment
-        * the fear of public space and how this drastically constrained their **ability to engage in sport** and 
+        * The impact of alienating** sports experiences** at school
+        * The intimidating nature of the **changing room **environment
+        * The fear of public space and how this drastically constrained their **ability to engage in sport** and 
           physical activity
-        * the overall impact of their exclusion in terms of being denied the** social, health and well-being 
+        * The overall impact of their exclusion in terms of being denied the** social, health and well-being 
           aspects** of sport
 * [Lenzi 18](https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=2007&context=aulr)
     * **Legal analysis of the legality of transgender sports policy** in the context of Title IX and the 14th 
@@ -1135,10 +1135,10 @@ aspects.**
       differences or no significant differences between trans and cis participants, or both).
     * **12 of 18 (66%) results** with clear results **suggest trans people have brain structures with similarities to 
       their current gender identity**.
-        * Keep in mind that's no consensus, but it suggests there could be something to check out there
+        * Keep in mind that's no consensus, but it suggests there could be something to check out there.
 * [Suraswat et al. 15](https://journals.aace.com/doi/abs/10.4158/EP14351.RA)
     * Studies on gray matter, white matter, twins, and prenatal exposure all suggest -- albeit, with limited sample 
-      sizes and methods -- that transgender identity, like homosexuality, has a biological origin
+      sizes and methods -- that transgender identity, like homosexuality, has a biological origin.
     * "_Although the mechanisms remain to be determined, **there is strong support in the literature for a biologic 
       basis of gender identity**._"
     * "_Current data suggest a biologic etiology for transgender identity. Studies of DSD patients and neuroanatomical 
@@ -1157,7 +1157,7 @@ aspects.**
     * [Rametti, Guillamon 11](https://www.sciencedirect.com/science/article/abs/pii/S0022395610001585?via%3Dihub) 
     * [Fernandez et al. 14](https://www.jsm.jsexmed.org/article/S1743-6095(15)30695-0/pdf) 
 * [https://pastebin.com/7yHHDdg7](https://pastebin.com/7yHHDdg7)
-* brain size accounts for some sex differences - 
+* Brain size accounts for some sex differences - 
   [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867125/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867125/); 
   hormones change some of the aforementioned minor differences - 
   [https://pubmed.ncbi.nlm.nih.gov/27744092/](https://pubmed.ncbi.nlm.nih.gov/27744092/); cis women with PCOS have some 
@@ -1168,11 +1168,11 @@ aspects.**
   and something else I found while searching for the other details, which is that if we look at functional similarities 
   rather than just structural ones, trans brains are more like the desired gender - 
   [https://health.clevelandclinic.org/research-on-the-transgender-brain-what-you-should-know](https://health.clevelandclinic.org/research-on-the-transgender-brain-what-you-should-know); 
-  as for the hand coordination example I can't specifically find anything on that because it seems fairly niche but it's 
-  well known that use will solidify/dedicate more myelin sheathing to certain brain paths including coordination
+  as for the hand coordination example I can't specifically find anything on that because it seems fairly niche but it's
+  well known that use will solidify/dedicate more myelin sheathing to certain brain paths including coordination.
 * [https://sillyolyou.wordpress.com/2019/05/16/the-illusion-of-neurosex-your-brain-is-not-male-nor-female/](https://sillyolyou.wordpress.com/2019/05/16/the-illusion-of-neurosex-your-brain-is-not-male-nor-female/)
   This source argues that the brain is not truly 'male' nor 'female' and that the dichotomy doesn't make much sense in 
-  the context of neuroscience
+  the context of neuroscience.
 * [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987404/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987404/)
 
 ---
@@ -1183,7 +1183,7 @@ aspects.**
 uncertainty with regard to identity. Regret rates are also very low. This seems to be true for both trans adults and 
 trans kids. Credit for most of this stuff goes to 
 [this doc](https://docs.google.com/document/d/1KxCxhpj1CAOr8CzWow-rUeBZig6q6n49x3MPdFXhzL8/edit?usp=drivesdk) by 
-[u/Albamc35](https://www.reddit.com/user/Albamc35/), feel free to cite it for convenience**
+[u/Albamc35](https://www.reddit.com/user/Albamc35/), feel free to cite it for convenience.**
 
 ### Trans Kids Detransition:
 
@@ -1195,7 +1195,7 @@ trans kids. Credit for most of this stuff goes to
   which treats more than 95% of the transgender population in the Netherlands, found that out of those referred to the 
   clinic in before the age of 18 and treated with puberty blockers, **4 out of 207 trans girls (2%) stopped puberty 
   suppression** without proceeding to HRT and **2 out of 370 trans boys (less than 1%) stopped puberty suppression** 
-  without proceeding to HRT
+  without proceeding to HRT.
 * [A study of 143 youth receiving puberty-blocking medication in the Netherlands](https://link.springer.com/content/pdf/10.1007/s10508-020-01660-8.pdf) 
   found that 3.5% chose to discontinue puberty blockers without seeking any further transition treatment.
 * [A William's Institute report](https://williamsinstitute.law.ucla.edu/publications/age-trans-individuals-us/) finds 
@@ -1221,11 +1221,11 @@ of [studies which further suggest a neurological or biological component to gend
   detransitioned temporarily. 
     * The reasons stated by patients for their regret or detransition included: social factors, reporting physical 
       complications, and changing their mind about their gender identity and identifying as their gender assigned at 
-      birth, which shows that of that minority, alot were not due to releasing they are not trans
+      birth, which shows that of that minority, alot were not due to releasing they are not trans.
 * [A transgender mental health survey in the UK](https://www.gires.org.uk/wp-content/uploads/2014/08/trans_mh_study.pdf) 
   (pg 66-67) found in terms of social changes that they had made in relation to being trans or transitioning, **only 9% 
   had significant regrets. In regard to the physical changes of being trans, only 2% having major regrets**. Remember 
-  that regrets =/= detransition though
+  that regrets =/= detransition though.
 * [A massive survey of trans people in the United States](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf) 
   (pg 111) found that even including people who only temporarily detransition either socially or medical (or both), only
   8% of respondents reported having detransitioned at some point.
@@ -1238,20 +1238,19 @@ of [studies which further suggest a neurological or biological component to gend
       Guam, Puerto Rico, and U.S. military bases overseas_"
 * [Turban et al. 19](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2749479)
     * Research on 27,715 transgender adults living in the US, 3,869 of whom had been exposed to gender identity 
-      conversion efforts
+      conversion efforts.
     * They found that quote "**_exposure to [gender identity conversion efforts] before age 10 years was significantly 
       associated with several measures of suicidality, including lifetime suicide attempts_**".
     * They also found no significant difference when comparing religious or secular conversion attempts. So it's not a 
       case of finding the right way to do it, there is no right way to do it.
 
-
 ### SRS Detransition:
 
 * [A study on people who went through sex reassignment surgery in the Netherlands](https://pubmed.ncbi.nlm.nih.gov/15842032/) 
   found that of 162 trans adults, **only 1 reported they would choose not to transition again**. Another had some 
-  regrets but would choose to transition again (0.6% regret rate)
+  regrets but would choose to transition again (0.6% regret rate).
 * [An analysis of all applications for sex reassignment surgery in Sweden](https://pubmed.ncbi.nlm.nih.gov/24872188/) 
-  found that of people undergoing SRS, **regret was about 2.2% and there was a significant decline of regret over time**
+  found that of people undergoing SRS, **regret was about 2.2% and there was a significant decline of regret over time**.
 * [In this international survey of 46 surgeons](https://journals.lww.com/prsgo/Fulltext/2018/08001/Abstract__A_Survey_Study_of_Surgeons__Experience.266.aspx) 
   (67% of providers have been in practice for greater than 10 years) they were asked to select a range representing the 
   number of transgender patients they have surgically treated, and **this amounted to a cumulative number of 
@@ -1260,7 +1259,7 @@ of [studies which further suggest a neurological or biological component to gend
       detransition care. 12 providers encountered 1 patient with regret and the rest encountered more than one patient. 
       This amounted to a total of 62 patients. There were 13 patients who regretted chest surgery and 45 patients who 
       regretted genital surgery.
-    * Overall, only 22 patients (0.1% of the sample) detransitioned because of a change in gender identity
+    * Overall, only 22 patients (0.1% of the sample) detransitioned because of a change in gender identity.
 * [A study on 232 trans women who were operated by the same surgeon 'using a consistent technique'](https://link.springer.com/article/10.1023/A:1024086814364#page-1) 
   found that **none reported outright regret and only a few expressed even occasional regret**. Dissatisfaction was most 
   strongly associated with unsatisfactory physical and functional results of surgery.
@@ -1272,7 +1271,7 @@ of [studies which further suggest a neurological or biological component to gend
 * [A study of 218 patients in Sweden](https://pubmed.ncbi.nlm.nih.gov/9570489/) found only 3.8% had regretted it. The 
   study also notes that **support from family and friends is a huge factor in reducing regret**. Keep in mind that this 
   data was taken in 1998 during a time in which being trans was less socially accepted than they are now, so that number 
-  has evidently decreased over time
+  has evidently decreased over time.
 * [A study on 66 patients](https://pubmed.ncbi.nlm.nih.gov/11564029/) found none of the present patients claimed to 
   regret their decision to undergo gender-transformation surgery.
 * [A meta analysis](https://web.archive.org/web/20070812100135/http://www.symposion.com:80/ijt/pfaefflin/6002-6.htm#Treatment%20Results), 
@@ -1322,27 +1321,27 @@ methodological, theoretical, ethical, and interpretive concerns**. Here is their
 
 #### Methodological Concerns
 
-1. the potential misclassification of child research participants
-2. the lack of acknowledgement of social context for research participants
-3. the age of participants at follow-up
-4. the potential misclassification of adolescent and young adult participants lost to follow-up
+1. The potential misclassification of child research participants
+2. The lack of acknowledgement of social context for research participants
+3. The age of participants at follow-up
+4. The potential misclassification of adolescent and young adult participants lost to follow-up
 
 #### Theoretical Concerns
 
-1. assumptions inherent in "desistance" terminology
-2. binary gender framework
-3. presumption of gender stability as a positive outcome
+1. Assumptions inherent in "desistance" terminology
+2. Binary gender framework
+3. Presumption of gender stability as a positive outcome
 
 #### Ethical Concerns
 
-1. intensive treatment and testing of child participants 
-2. questionable goals of treatment 
-3. lack of consideration of children's autonomy
+1. Intensive treatment and testing of child participants
+2. Questionable goals of treatment
+3. Lack of consideration of children's autonomy
 
 #### Interpretive Concerns
 
-1. the assumption that unknown future adult needs should supersede known childhood needs
-2. the underestimation of harm when attempting to delay or defer transition
+1. The assumption that unknown future adult needs should supersede known childhood needs
+2. The underestimation of harm when attempting to delay or defer transition
 
 Here are the conclusions from [this presentation from a WPATH conference](https://gidreform.wordpress.com/2014/02/25/methodological-questions-in-childhood-gender-identity-desistence-research/) 
 (which is a [reputable organization on gender dysphoria](https://www.hrc.org/resources/world-professional-association-for-transgender-health-wpath)), 
@@ -1390,8 +1389,8 @@ Canada.**
   also adds that evidence that an offence was motivated by bias, prejudice or hate based on a person's gender identity 
   or expression constitutes an aggravating circumstance for a court to consider when imposing a criminal sentence._**"
     * Essentially, **hate crimes against people based on gender identity/expression will be treated legally at the same 
-      level as other hate crimes**, e.g. racially motivated hate crimes
-    * Not once are pronouns or misgendering explicitly brought up in the bill
+      level as other hate crimes**, e.g. racially motivated hate crimes.
+    * Not once are pronouns or misgendering explicitly brought up in the bill.
     * This provides some further clarity on the bill's purpose: "_The recognition of the rights of gays and lesbians has 
       evolved in some measure through the recognition of the right to be free from discrimination based on sexual 
       orientation. Sexual orientation does not necessarily protect those whose gender does not align with their sex 
@@ -1416,22 +1415,22 @@ Canada.**
 ### Specific Debunks:
 
 * **CLAIM: [Father in British Columbia found guilty of 'family violence' for misgendering his trans son](https://thefederalist.com/2019/04/24/father-gagged-found-guilty-family-violence-calling-trans-daughter/)**
-    * Case was unrelated to C-16 and had far more to it than misgendering
+    * Case was unrelated to C-16 and had far more to it than misgendering.
     * The father was actively bringing his trans son's personal issues to light in public interviews, and brought up 
-      personal details during those interviews
+      personal details during those interviews.
     * The father was also actively contributing to worsening the child's mental health (the son had already attempted 
-      suicide in part because of his father, for example)
+      suicide in part because of his father, for example).
     * [Original source](https://www.bccourts.ca/jdb-txt/sc/19/06/2019BCSC0604.htm) in regard to this case, provides 
-      more context
+      more context.
 * **CLAIM: [Anti-gay activist William Whatcott fined $55,000 for misgendering trans activist Morgane Oger](https://vancouversun.com/news/local-news/anti-gay-activist-ordered-to-pay-55000-to-b-c-trans-activist-in-fight-over-hateful-flyer)**
     * Unrelated to C-16, dealt instead with section 7 of British Columbia's 
       [Human Rights Code](http://www.bclaws.ca/civix/document/id/complete/statreg/00_96210_01) (keep in mind C-16 was 
-      national legislation, not provincial legislation)
+      national legislation, not provincial legislation).
     * Whatcott was spreading anti-trans misinformation in general, specifically targeting Oger who was running for 
-      political office at the time and lost by a small margin
+      political office at the time and lost by a small margin.
     * [Original source](http://www.westcoastleaf.org/wp-content/uploads/2019/03/58_Oger_v_Whatcott_No_7_2019_BCHRT_58.pdf) 
       in regard to this case, provides more context — C-16 not cited in it, aside from the _Canadian Human Rights Act_ 
-      being brought up _once_ in 104 pages
+      being brought up _once_ in 104 pages.
     
 ---
 
@@ -1478,7 +1477,7 @@ personnel disrupting unit cohesion, and other concerns e.g. costs and deployabil
     * **Found NO evidence whatsoever that the military's operational effectiveness suffered** from the trans-inclusive 
       policy
 * [Williams Institute, 2014](https://williamsinstitute.law.ucla.edu/publications/trans-military-service-us/)
-    * Study that tries to estimate the number of military servicemembers and veterans that are transgender
+    * Study that tries to estimate the number of military servicemembers and veterans that are transgender.
     * Came out with a rather high estimate of 15,500 active servicemembers who are transgender, and around 134,300 
       transgender people who either are serving or have served in the military before. **This translates to around 20% 
       of the transgender population having served in the military at some point**.
@@ -1588,7 +1587,7 @@ able to work with a trans person.
       semantics), that doesn't change the fact that gender dysphoria can be mentally debilitating and we should allow 
       people to get medical treatment for gender dysphoria".
     * Also acknowledges that characterizing trans people as inherently having a mental illness opens the door to
-      stigmatization and discrimination
+      stigmatization and discrimination.
 * [https://www.apa.org/topics/lgbtq/transgender](https://www.apa.org/topics/lgbtq/transgender) "_A psychological state 
   is considered a mental disorder only if it causes significant distress or disability. Many transgender people do not 
   experience their gender as distressing or disabling, which implies that identifying as transgender does not constitute 
@@ -1681,7 +1680,7 @@ identity as trans people want for themselves?**
   helicopters aren't even sentient.
 * This started out as a dumb joke, and isn't well-equipped at all to be an actual argument. Anyone who uses this as a 
   legitimate argument has no idea what they're talking about.
-* [This page](https://transgendersg.com/trans-101-faq/) gives a different approach to the attack helicopter arg
+* [This page](https://transgendersg.com/trans-101-faq/) gives a different approach to the attack helicopter arg.
 
 **(WORK IN PROGRESS) Q: What if I identify as an attack helicopter, or as a different age? Should I be given the same 
 respect in my identity as trans people want for themselves?**
@@ -1705,16 +1704,16 @@ respect in my identity as trans people want for themselves?**
 or all trans women are trans because of erotic arousal by the thought of being a woman?**
 
 * Most evidence supporting the theory was published by Blanchard himself prior to 2003, after which his theory and 
-  methodology were both criticized
+  methodology were both criticized.
 * [https://juliaserano.blogspot.com/2015/07/the-real-autogynephilia-deniers.html](https://juliaserano.blogspot.com/2015/07/the-real-autogynephilia-deniers.html) 
-  nice roundup of the research surrounding autogynephilia
+  is nice roundup of the research surrounding autogynephilia.
 * A few direct critiques of the theory and/or methodology:
     * [http://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf](http://www.juliaserano.com/av/Serano-CaseAgainstAutogynephilia.pdf)
     * [https://www.tandfonline.com/doi/pdf/10.1080/00918369.2010.486241](https://www.tandfonline.com/doi/pdf/10.1080/00918369.2010.486241)
 * [https://www.researchgate.net/publication/26660017_Autogynephilia_in_Women](https://www.researchgate.net/publication/26660017_Autogynephilia_in_Women) 
-  the behaviours characterized as autogynephilia was observed on a frequent basis in 28% of women
-* [https://juliaserano.medium.com/making-sense-of-autogynephilia-debates-73d9051e88d3](https://juliaserano.medium.com/making-sense-of-autogynephilia-debates-73d9051e88d3) 
-  more julia serano content
+  * The behaviours characterized as autogynephilia was observed on a frequent basis in 28% of women.
+* [https://juliaserano.medium.com/making-sense-of-autogynephilia-debates-73d9051e88d3](https://juliaserano.medium.com/making-sense-of-autogynephilia-debates-73d9051e88d3)
+  * more julia serano content
 * [https://www.reddit.com/r/musicotic/comments/9n3zsu/autogynephilia_myths_version_20/](https://www.reddit.com/r/musicotic/comments/9n3zsu/autogynephilia_myths_version_20/)
 * [https://sillyolyou.wordpress.com/tag/autogynephilia/](https://sillyolyou.wordpress.com/tag/autogynephilia/)
 
@@ -1736,7 +1735,7 @@ hormones or surgery. Why can't we do the same for trans people?**
   that [they can happen in relation to each other](https://centerfordiscovery.com/blog/gender-dysphoria-body-dysmorphia-trans-non-binary-folks/). 
   For example, someone who is very conscious about their body image due to dysphoria might develop BDD as a result of 
   that anxiety. However, that doesn't justify approaching both gender dysphoria and BDD with the same treatments.
-* This talking point is addressed [here](https://transgendersg.com/trans-101-faq/) as well
+* This talking point is addressed [here](https://transgendersg.com/trans-101-faq/) as well.
 
 **Q: Don't you need dysphoria to be trans?**
 
@@ -1766,13 +1765,13 @@ cited where they implicitly or explicitly say that not all transgender people ha
       <tr>
        <td><a href="https://www.apa.org/topics/lgbtq/transgender">American Psychological Organization</a></td>
        <td>
-        Many transgender people <strong>do not experience their gender as distressing or disabling</strong>
+        Many transgender people <strong>do not experience their gender as distressing or disabling</strong>.
        </td>
       </tr>
       <tr>
        <td><a href="https://www.aappublications.org/news/2018/09/17/transgender091718">American Academy of Pediatrics</a></td>
        <td>
-        <strong>Some</strong> youths experience gender dysphoria when the incongruence between assigned sex at birth
+        <strong>Some</strong> youths experience gender dysphoria when the incongruence between assigned sex at birth.
        </td>
       </tr>
       <tr>
@@ -1814,7 +1813,7 @@ necessarily having dysphoria.
   Cohort Study in Sweden_"
     * **Commonly cited by anti-trans activists to indicate sexual reassignment surgery harms trans people, increases 
       risk of suicide.**
-    * This is **NOT** what the study says
+    * This is **NOT** what the study says.
         * A study proving that SRS harms trans people would compare the wellbeing of post-SRS trans people to pre-SRS 
           trans people, but this one uses** CIS** people as a control group. Because of this, we can only use the data 
           to compare certain trans people to the cis population - we can't compare pre-SRS to post-SRS with this data.
@@ -1832,7 +1831,7 @@ necessarily having dysphoria.
           "_This study cannot determine the effectiveness of gender-affirming medical intervention_"
     * On top of all of this, [a different study also focused on Sweden](https://link.springer.com/article/10.1007%2Fs10508-009-9551-1) 
       reaffirmed that SRS leads to satisfaction in the long run (though this one had 5 years of data while the Dhejne 
-      study had 20 years)
+      study had 20 years).
     * Something important to note about the time period of this study is that **societal attitudes toward transgender
       people may have changed during the study's timeframe**, between 1973 and 2003. The same is true for transgender 
       healthcare itself. This means that the outcomes of transitioning in 1970 could very well differ from the outcomes
@@ -1840,8 +1839,8 @@ necessarily having dysphoria.
         * "_In accordance, the **overall mortality rate was only significantly increased for the group operated before
           1989**. However, the latter might also be explained by improved health care for transsexual persons during \[the\] 
           1990s, along with altered societal attitudes towards persons with different gender expressions._"
-    * Brief on the study's misuse in this video [https://youtu.be/WNjdTNYzWbc?t=1037](https://youtu.be/WNjdTNYzWbc?t=1037) 
-      17 minutes in
+    * Brief on the study's misuse in this video [https://youtu.be/WNjdTNYzWbc?t=1037](https://youtu.be/WNjdTNYzWbc?t=1037)
+      (17 minutes in).
     * This study is also cited to prove that "trans women retain male pattern violence" and was misrepresented so much 
       that the author herself had an interview to discuss how that's not what the study is saying. [This article by Gemma Stone](https://medium.com/@notCursedE/do-trans-women-retain-male-pattern-violence-df67954373fd) 
       goes over this specific talking point.
@@ -1918,7 +1917,7 @@ necessarily having dysphoria.
           communities.
 * [Leinung et al. 18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5944393/) sometimes cited as 
   [this article](https://www.bumc.bu.edu/busm/2018/02/20/medicine-alone-does-not-completely-suppress-testosterone-levels-among-transgender-women/)
-    * **The study claims that hormonal therapy does not help reduce testosterone levels to that of a cis woman's**
+    * **The study claims that hormonal therapy does not help reduce testosterone levels to that of a cis woman's.**
     * However, the study uses the testosterone blocker known as Spiro, which inhibits testosterone receptors rather than 
       stopping its production, making the data useless. On the other hand, 
       [a different study](https://pubmed.ncbi.nlm.nih.gov/15476439/) ([non-paywall](https://eje.bioscientifica.com/downloadpdf/journals/eje/151/4/425.pdf)) 
@@ -1936,21 +1935,21 @@ necessarily having dysphoria.
       fault of the doctor and not the medication
     * The article does not prove puberty blockers are bad, it proves doctors need to do better
 * [A Wiik et al. 2019: Muscle strength, size and composition following 12 months of gender-affirming treatment in transgender individuals: retained advantage for the transwomen](https://www.biorxiv.org/content/10.1101/782557v1)
-    * The study is not peer reviewed despite how long it's been up
+    * The study is not peer reviewed despite how long it's been up.
     * Bad methodology: the study doesn't take into account outside influence on muscle mass such as manual labor or 
       exercise neither pre hrt nor during the treatment, which can provide a big starting point regardless of sex 
       hormones, Something which compares trans athletes and trans people who aren't as active would provide more 
-      accurate data
+      accurate data.
 * [The Federalist: "Study: Transgender Male Athletes Keep Physical Advantages Even After Female Hormone Injections](https://thefederalist.com/2019/08/08/study-transgender-male-athletes-keep-physical-advantages-even-female-hormone-injections/)"
-    * Big conservative bias with a conspiracy theory and very incorrect use of words in the first paragraph
+    * Big conservative bias with a conspiracy theory and very incorrect use of words in the first paragraph.
     * The study did not talk about trans women at all, it talked only about suppressing testosterone without introducing 
-      cross sex hormones
+      cross sex hormones.
     * This study is taken completely out of context and doesn't prove anything about trans women.
     * The rest of the article draws conclusions from that ONE study that doesn't even prove the point they try to make 
       and makes it seem like that's all science has to offer.
 * [Dirks 18](https://womanmeanssomething.com/targetstudy/) ([pdf](http://womanmeanssomething.com/wp-content/uploads/2018/02/A-Longitudinal-Analysis-of-Media-Reports-at-Target-Stores.pdf))
     * **Cited by anti-trans activists to indicate that gender inclusion policies in store changing rooms leads to a 
-      large increase in sexual offences**
+      large increase in sexual offences.**
     * **BAD DATA COLLECTION:** The study uses **media reports from Google searches**, which is a horrific way to collect 
       data on actual sexual offences.
         * If a single incident gets reported on by multiple outlets, that may have been counted as multiple incidents 
@@ -1971,9 +1970,9 @@ necessarily having dysphoria.
       **And these numbers are from the study itself**!
     * It is not peer reviewed and published on _Woman Means Something_, a TERF website.
     * The study's author is a [pastor who supports gay conversion therapy](https://www.thepublicdiscourse.com/author/paul-dirks/), 
-      showing further study bias - people who are anti LGB are very likely to also have conservations about the T
+      showing further study bias - people who are anti LGB are very likely to also have conservations about the T.
     * Anyway, [there is a large consensus](http://www.4vawa.org/ntf-action-alerts-and-news/2018/4/12/national-consensus-statement-of-anti-sexual-assault-and-domestic-violence-organizations-in-support-of-full-and-equal-access-for-the-transgender-community) 
-      of US sexual assault charities that have come forward in support of trans-inclusive policies
+      of US sexual assault charities that have come forward in support of trans-inclusive policies.
 * **Those 4 studies that show ~80% detransition in children**
     * [https://www.tandfonline.com/doi/abs/10.1080/15532739.2018.1456390](https://www.tandfonline.com/doi/abs/10.1080/15532739.2018.1456390)
     * [https://jaacap.org/article/S0890-8567(15)00794-7/fulltext](https://jaacap.org/article/S0890-8567(15)00794-7/fulltext)
@@ -1989,7 +1988,7 @@ necessarily having dysphoria.
       cover each and every study here though, it's much easier to link [this video from Jangles Sciencelad](https://youtu.be/WNjdTNYzWbc?t=555) 
       which addresses the blog post at around 9 minutes in.
     * [Another rebuttal on Reddit](https://www.reddit.com/r/centrist/comments/n51jqr/no_6090_of_trans_kids_dont_change_their_gender/) 
-      which also takes some stuff from the Source Library itself
+      which also takes some stuff from the Source Library itself.
 * [Hilton & Lundberg 20](https://link.springer.com/article/10.1007/s40279-020-01389-3), study name "_Transgender Women 
   in the Female Category of Sport: Perspectives on Testosterone Suppression and Performance Advantage_"
     * Jangles ScienceLad rebuttal: [https://www.youtube.com/watch?v=6VtjgZF9RE8](https://www.youtube.com/watch?v=6VtjgZF9RE8) 
@@ -2001,7 +2000,7 @@ necessarily having dysphoria.
   * The original ARIF study the Guardian article talked about DID NOT CONCLUDE that sex changes are ineffective, but 
     rather concluded that there were no high quality studies on the subject. That's furthered discussed here: 
     [http://www.cakeworld.info/news/2014-08-02acommentaryonthe2004arifstudyandtheguardianarticlesexchangesarenoteffectivesayresearchers](http://www.cakeworld.info/news/2014-08-02acommentaryonthe2004arifstudyandtheguardianarticlesexchangesarenoteffectivesayresearchers)
-* Anything which cites Dr David Bell such as the following articles
+* Anything which cites Dr David Bell such as the following articles:
   * [David Bell: Tavistock gender clinic whistleblower faces the sack](https://www.thetimes.co.uk/article/david-bell-tavistock-gender-clinic-whistleblower-faces-the-sack-rtkl09907)
     * [Children have been very seriously damaged' by NHS gender clinic, says former Tavistock staff governor](https://www.channel4.com/news/children-have-been-very-seriously-damaged-by-nhs-gender-clinic-says-former-tavistock-staff-governor)
     * [Transgender children who are medically treated risk 'serious and irreversible damage', leading psychiatrist warns](https://www.telegraph.co.uk/news/2019/09/04/transgender-children-medically-treated-risk-serious-irreversible/)
@@ -2023,7 +2022,7 @@ necessarily having dysphoria.
     * **American Psychological Association** pamphlet on transgender issues
     * Affirms psychological consensus - that transgender people **are valid**, have **existed throughout history**, 
       are **subject to discrimination**, and that transness is **not a mental disorder**.
-    * [More food by APA](https://www.apa.org/pi/lgbt/programs/transgender/)
+    * [More food by APA.](https://www.apa.org/pi/lgbt/programs/transgender/)
 * [American Psychological Association 08](https://www.apa.org/about/policy/resolution-gender-identity.pdf)
     * **Gender Identity Resolution **which expands upon the premises listed in the annotation above and supports total 
       equality for transgender people - affirmation of the **institutional legitimacy of transness** in psychology.
@@ -2061,10 +2060,10 @@ necessarily having dysphoria.
 * [https://www.suicideinfo.ca/resource/transgender-people-suicide/](https://www.suicideinfo.ca/resource/transgender-people-suicide/)
 * [https://www.sciencenewsforstudents.org/article/gender-when-body-and-brain-disagree](https://www.sciencenewsforstudents.org/article/gender-when-body-and-brain-disagree)
 * [Stotzer et al 2014](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Parenting-Review-Oct-2014.pdf)
-    * 2014 review of research regarding transgender parents - 51 papers analyzed
+    * 2014 review of research regarding transgender parents - 51 papers analyzed.
     * More research is needed (of course) to get a fuller understanding of those situations, but some broad themes
-      regarding discrimination, parent-child relations, etc. have emerged
-        * Discrimination/transphobia is still major issue, e.g. in child custody cases, adoptions, and so on
+      regarding discrimination, parent-child relations, etc. have emerged.
+        * Discrimination/transphobia is still major issue, e.g. in child custody cases, adoptions, and so on.
         * Coming out as trans can have a big impact on the parent's relationship with other family members, with a 
           variety of possible results. Sometimes relationships improve after coming out, sometimes they get worse.
     * Some transgender parents said they would benefit from services tailored to their specific needs, e.g. trans 
@@ -2103,11 +2102,11 @@ and it's also vague on how much of gendered norms are nurtured as opposed to nat
         * Korean immigrant girls perceived that a woman could not be President of the United States because a classroom 
           poster depicted all male presidents.
 * [Freedman 07](https://link.springer.com/article/10.1007/s10643-006-0123-x)
-    * Observed children between the ages of 3-5
+    * Observed children between the ages of 3-5.
     * Children predicted parents would consistently apply these stereotypes as reflected by their approval or 
       disapproval of children's choices to play with gender stereotyped or cross-gender toys.
     * As early as 3-5 years, children recognize stereotypes about gendered play and subconsciously account for social 
-      disapproval
+      disapproval.
 * [Saltmarsh 09](https://www.researchgate.net/publication/249914261_Becoming_economic_subjects_Agency_consumption_and_popular_culture_in_early_childhood)
     * One paper which details how children, from a young age, are subject to stereotyping and perceived gender 
       differences, and the post-structuralist outlook
@@ -2121,15 +2120,15 @@ and it's also vague on how much of gendered norms are nurtured as opposed to nat
 **Singular "they" is grammatically correct**
 
 * [Grammarly - Mora 18](https://www.grammarly.com/blog/use-the-singular-they/)
-    * They/Them Pronouns are academically approved
+    * They/Them Pronouns are academically approved.
     * As of 2019, most big style guides—including the Associated Press, the Chicago Manual of Style, the MLA style 
       manual, and the APA style manual—accept the usage of the singular they.
 * [Oxford English Dictionary](https://public.oed.com/blog/a-brief-history-of-singular-they/)
     * Traces singular they back to 1375, demonstrating a large historical precedent.
     * "They" is grammatically similar to "You," which "was a plural pronoun that had become singular as well."
 * [Lupercallegit - 20](https://www.lupercallegit.org/post/a-style-guide-for-gender-inclusivity-in-the-latin-language)
-    * Latin scholars pieced together a guide for gender inclusivity in the Latin language
-    * Shows that scholars of different languages accept gender-neutral and non-gendered language
+    * Latin scholars pieced together a guide for gender inclusivity in the Latin language.
+    * Shows that scholars of different languages accept gender-neutral and non-gendered language.
 
 ---
 
@@ -2145,7 +2144,7 @@ and it's also vague on how much of gendered norms are nurtured as opposed to nat
       as **XX/XY**.
     * ![Beyond XX and XY](images/beyond-xx-and-xy.png "Beyond XX and XY")
 * [New York Times: Fausto-Sterling 18](https://www.nytimes.com/2018/10/25/opinion/sex-biology-binary.html?ref=oembed)
-    * NY Times Op-Ed from a professor of biology & gender studies
+    * NY Times Op-Ed from a professor of biology & gender studies.
     * Explains the **biological complexity of sex** and the ways in which the **Trump Administration's** attempts to 
       legislate that complexity of existence are both **immoral and unscientific.**
     * Please be mindful that this specific source has 
@@ -2156,7 +2155,7 @@ and it's also vague on how much of gendered norms are nurtured as opposed to nat
     * Description of **modern scientific attitudes** towards **human sex**.
     * "_The view that the world's population can be separated into a clearly defined dyadic unit of male and female is 
       **defunct**; not only **clinical observations, but molecular biology** has established that **sexual identity is 
-      on a continuum**, with an **enormous potential for variance**_"
+      on a continuum**, with an **enormous potential for variance**_."
 * [https://www.nature.com/news/sex-redefined-1.16943](https://www.nature.com/news/sex-redefined-1.16943)
 * [https://scopeblog.stanford.edu/2015/02/24/sex-biology-redefined-genes-dont-indicate-binary-sexes/](https://scopeblog.stanford.edu/2015/02/24/sex-biology-redefined-genes-dont-indicate-binary-sexes/)
 * [https://www.ubcpress.ca/the-spectrum-of-sex](https://www.ubcpress.ca/the-spectrum-of-sex) a whole book
@@ -2175,7 +2174,7 @@ Whether or not gender and sex are distinct basically depends entirely on how we 
     * "_"Sex" refers to biological differences between females and males, including chromosomes, sex organs, and 
       endogenous hormonal profiles. "Gender" refers to socially constructed and enacted roles and behaviors which occur 
       in a historical and cultural context and vary across societies and over time._"
-    * [More reading from the NIH](https://newsinhealth.nih.gov/2016/05/sex-gender)
+    * [More reading from the NIH.](https://newsinhealth.nih.gov/2016/05/sex-gender)
 * [American Psychological Association](https://www.apa.org/pi/lgbt/resources/sexuality-definitions.pdf)
     * "_Sex refers especially to physical and biological traits, whereas GENDER refers especially to social or cultural 
       traits_"
@@ -2195,9 +2194,9 @@ Whether or not gender and sex are distinct basically depends entirely on how we 
 * [National Health Service (UK)](https://www.nhs.uk/conditions/gender-dysphoria/)
     * "_Most people identify as "male" or "female". These are sometimes called "binary" identities. But some people 
       feel their gender identity is different from their biological sex._"
-    * **Doesn't explicitly say 'gender and sex are different'** but still assumes the distinction exists
+    * **Doesn't explicitly say 'gender and sex are different'** but still assumes the distinction exists.
 * [American College of Obstetricians and Gynecologists](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2021/03/health-care-for-transgender-and-gender-diverse-individuals)
-    * Defines "gender identity" and "sex" separately
+    * Defines "gender identity" and "sex" separately.
     * "_Gender Identity: A person's internal sense of self and how they fit into the world, from the perspective of 
       gender._"
     * "_Sex: Historically has referred to the sex assigned at birth, based on assessment of external genitalia, as well 
@@ -2225,7 +2224,7 @@ Some things to keep in mind:
 * A sex/gender distinction is already used in practice to describe trans people
     * [Merriam-Webster](https://www.merriam-webster.com/dictionary/transgender) defines transgender as being "_of, 
       relating to, or being a person **whose gender identity differs from the sex** the person had or was identified as 
-      having at birth_"
+      having at birth._"
     * [Oxford English Dictionary](https://www.oed.com/viewdictionaryentry/Entry/247649) defines transgender as 
       "_Designating a person whose **sense of personal identity and gender does not correspond to that person's sex at 
       birth**, or which does not otherwise conform to conventional notions of sex and gender._"
@@ -2271,7 +2270,7 @@ constructed):
 **We didn't always hold the same attitudes or use the same terminology for genders that we do now.**
 
 * [History Extra: BBC](https://www.historyextra.com/period/great-misconception/)
-    * Interesting origins of gendered terms and raising children
+    * Interesting origins of gendered terms and raising children.
     * _"Nor have boys always even been called boys. **Until the late 15th century the word 'girl' simply means a child 
       of either sex**. Boys, where they had to be differentiated, were referred to as 'knave girls' and girls in the 
       female sense were called 'gay girls'. Equally a boy could be a 'knave child' and a girl a 'maiden child'. The 
@@ -2279,8 +2278,8 @@ constructed):
       pejorative term but not occurring before 1440."_
 * [Newman 15](https://aeon.co/essays/whatever-happened-to-the-noble-art-of-the-manly-weep)
     * **It used to be considered manly to cry** - not just in one place at one time, but in multiple societies at 
-      different points in history
-    * _Note: Non-academic and non-expert, but still useful_
+      different points in history.
+    * _Note: Non-academic and non-expert, but still useful._
 * [Oláh et al. 14](http://www.familiesandsocieties.eu/wp-content/uploads/2014/12/WP11OlahEtAl2014.pdf)
     * Gendered behaviours and associated responsibilities have seen some changes even in recent times. For example:
         * Women have consistently become more involved in working for money and bringing income home (pg 11)
@@ -2289,7 +2288,7 @@ constructed):
           of childcare work (pg 29)
 * [Haig 04](https://link.springer.com/article/10.1023/B%3AASEB.0000014323.56281.0d)
     * **As late as the 1960s, "gender" was rarely used in the social sciences** nor in the scientific community in 
-      general, **back when we didn't know as much about sex and gender as we do now**
+      general, **back when we didn't know as much about sex and gender as we do now.**
     * **When it was introduced it was done specifically with a gender-sex distinction in mind**: "_Money (1996) later 
       wrote that he imported the term gender into sexological science "to make it possible to write about people who 
       came into one's office as either male or female, but of whom it could not be said that their sex role in the 
@@ -2298,7 +2297,7 @@ constructed):
           titles in SCI and SSCI from the 1960s appear to have derived the term from Money._"
         * Keep in mind this is also the Money who's 
           [infamous for child abuse and a failed transitioning project](https://en.wikipedia.org/wiki/David_Reimer) 
-          (addressed [here](#addressing-reactionary-claims)), that's bad
+          (addressed [here](#addressing-reactionary-claims)), that's bad.
 
 ---
 
@@ -2315,7 +2314,7 @@ constructed):
 
 **Gender essentialists claim that gender differences career choices remain even in highly egalitarian countries - named         
 the gender equality paradox. This claim is founded on a poor study which the academic community rejects and ridicules. 
-See the [wikipedia page](https://en.wikipedia.org/wiki/Gender-equality_paradox)**
+See the [wikipedia page](https://en.wikipedia.org/wiki/Gender-equality_paradox).**
 
 * [Richardson et al 18](https://journals.sagepub.com/doi/abs/10.1177/0956797619872762?journalCode=pssa)
     * A **peer reviewed** paper published by the **same journal** cities conceptual and empirical problems with the 
@@ -2331,7 +2330,7 @@ See the [wikipedia page](https://en.wikipedia.org/wiki/Gender-equality_paradox)*
 * [Breda et al. 20](https://www.pnas.org/content/117/49/31063)
     * Researchers empirically show that there is a **much stronger correlation** between the **strength of gender 
       stereotypes** in math-related fields and **differences in intention to study math-related fields** between boys 
-      and girl
+      and girl.
     * The paper explains the gender-math stereotype as a combination of various theories:
         * A way for dominant groups to differentiate themselves
         * According to evolutionary theory, social differentiation to achieve more cooperation between individuals by 
@@ -2422,7 +2421,7 @@ Additional Resources:
       usually loops the conversation back to whether or not there's a gender-sex distinction, which in turn is addressed 
       [here](#gender-and-sex-are-different).
 * [https://www.psychologytoday.com/us/blog/old-school-parenting-modern-day-families/201907/time-move-beyond-gender-is-socially-constructed?amped](https://www.psychologytoday.com/us/blog/old-school-parenting-modern-day-families/201907/time-move-beyond-gender-is-socially-constructed?amped) 
-  some more points here to address down the road
-* The sex-binary based on SRY take (briefly addressed [here](https://blogs.scientificamerican.com/voices/stop-using-phony-science-to-justify-transphobia/))
+  some more points here to address down the road.
+* The sex-binary based on SRY take (briefly addressed [here](https://blogs.scientificamerican.com/voices/stop-using-phony-science-to-justify-transphobia/)).
 
 ---
