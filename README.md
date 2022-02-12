@@ -1,21 +1,3 @@
-<style>
-thead tr td {
-  text-decoration:underline;
-  font-weight: bold;
-}
-h2 {
-  font-size: 2em;
-  text-decoration:underline;
-}
-h3 {
-  font-size: 1em;
-  text-decoration:underline;
-}
-h4 {
-  text-decoration:underline;
-}
-</style>
-
 # Trans Factsheet
 
 <table>
