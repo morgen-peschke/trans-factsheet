@@ -1157,19 +1157,20 @@ aspects.**
     * [Rametti, Guillamon 11](https://www.sciencedirect.com/science/article/abs/pii/S0022395610001585?via%3Dihub) 
     * [Fernandez et al. 14](https://www.jsm.jsexmed.org/article/S1743-6095(15)30695-0/pdf) 
 * [https://pastebin.com/7yHHDdg7](https://pastebin.com/7yHHDdg7)
-* Brain size accounts for some sex differences - 
-  [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867125/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867125/); 
-  hormones change some of the aforementioned minor differences - 
-  [https://pubmed.ncbi.nlm.nih.gov/27744092/](https://pubmed.ncbi.nlm.nih.gov/27744092/); cis women with PCOS have some 
-  of the same differences trans women do - 
-  [https://academic.oup.com/humrep/article/28/10/2832/622588](https://academic.oup.com/humrep/article/28/10/2832/622588); 
-  some stuff about how sexually dimorphic traits are better associated with specific hormone exposure and sexuality - 
-  [https://en.wikipedia.org/wiki/Neuroscience_and_sexual_orientation](https://en.wikipedia.org/wiki/Neuroscience_and_sexual_orientation); 
-  and something else I found while searching for the other details, which is that if we look at functional similarities 
-  rather than just structural ones, trans brains are more like the desired gender - 
-  [https://health.clevelandclinic.org/research-on-the-transgender-brain-what-you-should-know](https://health.clevelandclinic.org/research-on-the-transgender-brain-what-you-should-know); 
-  as for the hand coordination example I can't specifically find anything on that because it seems fairly niche but it's
-  well known that use will solidify/dedicate more myelin sheathing to certain brain paths including coordination.
+* Factors which may account for sex differences:
+  * Brain size accounts for some sex differences -
+    [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867125/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867125/)
+  * Hormones change some of the aforementioned minor differences - 
+    [https://pubmed.ncbi.nlm.nih.gov/27744092/](https://pubmed.ncbi.nlm.nih.gov/27744092/)
+  * Cis women with PCOS have some of the same differences trans women do - 
+    [https://academic.oup.com/humrep/article/28/10/2832/622588](https://academic.oup.com/humrep/article/28/10/2832/622588)
+  * Some stuff about how sexually dimorphic traits are better associated with specific hormone exposure and sexuality - 
+    [https://en.wikipedia.org/wiki/Neuroscience_and_sexual_orientation](https://en.wikipedia.org/wiki/Neuroscience_and_sexual_orientation)
+  * Something else I found while searching for the other details, which is that if we look at functional similarities 
+    rather than just structural ones, trans brains are more like the desired gender - 
+    [https://health.clevelandclinic.org/research-on-the-transgender-brain-what-you-should-know](https://health.clevelandclinic.org/research-on-the-transgender-brain-what-you-should-know)
+  * As for the hand coordination example I can't specifically find anything on that because it seems fairly niche, but 
+    it's well known that use will solidify/dedicate more myelin sheathing to certain brain paths including coordination.
 * [https://sillyolyou.wordpress.com/2019/05/16/the-illusion-of-neurosex-your-brain-is-not-male-nor-female/](https://sillyolyou.wordpress.com/2019/05/16/the-illusion-of-neurosex-your-brain-is-not-male-nor-female/)
   This source argues that the brain is not truly 'male' nor 'female' and that the dichotomy doesn't make much sense in 
   the context of neuroscience.
